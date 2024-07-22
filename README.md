@@ -1,16 +1,26 @@
-# lottery_app
+# Lottery App
 
-A new Flutter project.
+Lottery App is a simple Flutter application that generates a random number with a single button press and matches it with a predefined lottery number (5 in this case). The app features a static design but is dynamic in its functionality for generating numbers and saving the current status of the screen.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Random Number Generation**: Generate a random number with a single button press.
+- **Lottery Matching**: Matches the generated number with the predefined lottery number (5).
+- **State Persistence**: Saves the current status of the screen.
+- **Static Design**: A simple and clean static design for ease of use.
 
-A few resources to get you started if this is your first Flutter project:
+- 
+  ## Acknowledgments
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Asif Taj**: Special thanks to [Asif Taj](https://github.com/axiftaj) for his excellent tutorial, which served as the foundation for this project. His content and learning path are invaluable resources for anyone starting with Flutter.
+- All contributors and the open-source community for their support and inspiration.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation
+
+To install the Lottery App, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/lottery-app.git
