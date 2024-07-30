@@ -23,4 +23,4 @@ To install the Lottery App, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/lottery-app.git
+   git clone https://github.com/Shahbaz31/lottery-app.git
